@@ -1,8 +1,4 @@
-package com.amazon.ata.inmemorycaching.prework.order;
-
 import com.amazon.ata.aws.dynamodb.DynamoDbClientProvider;
-import com.amazon.ata.inmemorycaching.prework.order.resources.OnlineOrdersDAO;
-
 import com.amazonaws.regions.Regions;
 import com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBMapper;
 

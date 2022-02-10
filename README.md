@@ -1,11 +1,5 @@
 ### Adding Caching to our Orders Manager
 
-**Branch name:** inmemorycaching-prework
-
-**RDE workfows:**
-* `rde wflow run inmemorycaching-prework-order-cachingonlineorderdaotest`
-* `rde wflow run inmemorycaching-prework-order-onlineorderapp`
-
 Expected time required: 20 min
 
 Our online order system allows a user to view all of their recent orders. By providing a `String userId`, the 

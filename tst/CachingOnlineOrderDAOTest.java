@@ -1,8 +1,3 @@
-package com.amazon.ata.inmemorycaching.prework.order;
-
-import com.amazon.ata.inmemorycaching.prework.order.resources.OnlineOrdersDAO;
-import com.amazon.ata.inmemorycaching.prework.order.resources.Order;
-
 import com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBMapper;
 import com.amazonaws.services.dynamodbv2.datamodeling.QueryResultPage;
 import com.google.common.cache.LoadingCache;
